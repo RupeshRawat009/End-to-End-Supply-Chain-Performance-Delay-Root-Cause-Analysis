@@ -75,6 +75,18 @@ Executive dashboard built using Power BI and DAX measures featuring:
 * **Middle Tier:** Profitability Split (Donut Chart) and Delay % by Shipping Mode (Bar Chart).
 * **Bottom Tier:** Delay distribution insights, regional bottlenecks, and temporal capacity trends mapping out peak stress months.
 
+## 📊 Dashboard & Prediction Insights
+
+<table>
+  <tr>
+    <td><b>Supply Chain Dashboard</b></td>
+    <td><b>Delay Root Cause Analysis</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/RupeshRawat009/End-to-End-Supply-Chain-Performance-Delay-Root-Cause-Analysis/raw/main/SupplyChainDashboard.png" width="100%" alt="Supply Chain Dashboard"></td>
+    <td><img src="https://github.com/RupeshRawat009/End-to-End-Supply-Chain-Performance-Delay-Root-Cause-Analysis/raw/main/DelayRootAnalysis.png" width="100%" alt="Delay Root Cause Analysis"></td>
+  </tr>
+</table>
 ---
 
 ## 📈 Results Summary
