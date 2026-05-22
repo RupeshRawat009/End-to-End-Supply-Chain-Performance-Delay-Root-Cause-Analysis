@@ -2,6 +2,11 @@
 ### Data-Driven Logistics Diagnostics and Predictive Analytics to Recover Profitability
 
 ---
+![Project Banner](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![SQL](https://img.shields.io/badge/SQL-Server-red)
+![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![ML](https://img.shields.io/badge/ML-Random%20Forest-orange)
 
 ## 📌 Project Overview
 Global e-commerce companies lose massive amounts of revenue and brand trust every year due to fulfillment failures. This end-to-end analytics project identifies why deliveries are late, where operational bottlenecks occur, and how to proactively predict risks — by combining Python-based data engineering, machine learning, and interactive Power BI dashboards. A **54.71% late delivery rate** was detected across **172,765 orders**, putting **$2.1M profit at risk** — this project uncovers the structural flaws behind those numbers and deploys a predictive solution.
